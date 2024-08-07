@@ -4,7 +4,7 @@
 
 ### Spring 2024
 - 
-- 
+- [Regional Analysis of a Supermarket](https://github.com/eericson2005/Regional-Analysis-of-a-Supermarket)
 ### Fall 2023
 - [Methane Emissions vs Waste](https://github.com/eericson2005/Methane-Emissions-vs-Waste)
 - [Energy vs GDP](https://github.com/eericson2005/Energy-vs-GDP) 
