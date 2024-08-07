@@ -3,7 +3,7 @@
 <h2>Data Science Projects:</h2>
 
 ### Spring 2024
-- 
+- [Fully Paid Loan Analysis](https://github.com/eericson2005/Fully-Paid-Loan-Analysis)
 - [Regional Analysis of a Supermarket](https://github.com/eericson2005/Regional-Analysis-of-a-Supermarket)
 ### Fall 2023
 - [Methane Emissions vs Waste](https://github.com/eericson2005/Methane-Emissions-vs-Waste)
