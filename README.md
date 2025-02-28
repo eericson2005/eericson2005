@@ -2,6 +2,8 @@
 
 <h2>Data Science Projects:</h2>
 
+### Fall 2024
+- [Toilets in Australia](https://github.com/eericson2005/Toilets-In-Australia)
 ### Spring 2024
 - [Fully Paid Loan Analysis](https://github.com/eericson2005/Fully-Paid-Loan-Analysis)
 - [Regional Analysis of a Supermarket](https://github.com/eericson2005/Regional-Analysis-of-a-Supermarket)
